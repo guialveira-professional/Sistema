@@ -17,6 +17,7 @@ Execute o projeto com Python
 ## 💎 Stacks utilizadas
 
 **Desenvolvimento web:** Django, Django Rest Framework
+
 **Autenticação** Simple JWT
 
 
